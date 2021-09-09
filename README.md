@@ -7,4 +7,4 @@
 .
 .
 .
-![image test](./docs/images/test_img.png)
+![image test](./docs/imges/test_img.png)
